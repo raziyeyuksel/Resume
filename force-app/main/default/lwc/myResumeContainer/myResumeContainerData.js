@@ -17,6 +17,13 @@ export const SOCIAL_LINKS=[
         icon: SOCIAL + '/SOCIAL/linkedin.svg'
     },
     {
+        type: "website",
+        label: "my-site portal/raziyeyuksel",
+        link: "https://raziye-dev-ed.my.site.com/portfolio/s ",
+        icon: SOCIAL + '/SOCIAL/my-site portal.svg'
+    },
+
+    {
         type: "trailhead",
         label: "trailhead/Rozie",
         link: "https://www.salesforce.com/trailblazer/ryuksel",
