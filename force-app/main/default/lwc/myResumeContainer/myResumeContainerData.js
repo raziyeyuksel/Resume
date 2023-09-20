@@ -18,9 +18,9 @@ export const SOCIAL_LINKS=[
     },
     {
         type: "website",
-        label: "my-site portal/raziyeyuksel",
+        label: "website/raziyeyuksel",
         link: "https://raziye-dev-ed.my.site.com/portfolio/s ",
-        icon: SOCIAL + '/SOCIAL/my-site portal.svg'
+        icon: SOCIAL + '/SOCIAL/website.svg'
     },
 
     {
