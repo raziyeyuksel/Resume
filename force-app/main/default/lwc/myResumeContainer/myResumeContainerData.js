@@ -6,7 +6,7 @@ export const SOCIAL_LINKS=[
   
     {
         type: "github",
-        label: "github/RYuksel",
+        label: "github/ryuksel",
         link: "https://github.com/raziyeyuksel",
         icon: SOCIAL + '/SOCIAL/github.svg'
     },
@@ -18,9 +18,9 @@ export const SOCIAL_LINKS=[
     },
     {
         type: "website",
-        label: "website/raziyeyuksel",
+        label: "website/ryuksel",
         link: "https://raziye-dev-ed.my.site.com/portfolio/s ",
-        icon: SOCIAL + '/SOCIAL/website.svg'
+        icon: SOCIAL + '/SOCIAL/twitter.svg'
     },
 
     {
