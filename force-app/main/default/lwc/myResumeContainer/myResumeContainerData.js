@@ -32,7 +32,7 @@ export const SOCIAL_LINKS=[
 ]
 
 export const USER_DETAILS={
-    NAME:'ROZIE YUKSEL',
+    NAME:'RAZIYE(ROZIE) YUKSEL',
     ROLE:'Salesforce Administrator/ Developer',
     EMAIL:'tyrozie44@gmail.com',
     PHONE:'281 544 0298'
@@ -54,8 +54,36 @@ export const EXPERIENCE_DATA={
     EXPERIENCES: [
         {
             ROLE: "Salesforce Administrator",
+            COMPANY_NAME: "ChangeForce Foundation",
+            DURATION: "2023 - Present",
+            DESCRIPTION:
+                "I was responsible for the day-to-day configuration, support, maintenance, and improvement of the organization’s database. Working closely with fundraising, program management, and marketing staff, the administrator will identify, develop, and deploy new business processes. ",
+            DESCRIPTION_POINTS: [
+                "Handle basic administrative functions including user maintenance, modification of page layouts, generation of reports and dashboards, creation of new fields and other routine tasks.",
+                "Gather detailed requests for improvements or changes to the system, and implement these changes as appropriate.",
+                "Automate processes using Salesforce tools such as process builder, flow automation, validation rules.",
+                "Manage less complex Salesforce integrations - those not handled by a Salesforce Developer or Consultant/Partner.",
+                "Identify, install and maintain appropriate apps from the AppExchange for event management, mass email, document merge, and more.",
+                "Identify and gather requirements from users and stakeholders. ",
+                "Worked with Lightning Framework, Lightning components, Lightning events and Salesforce Lightning Design system and had experience in Software Development Lifecycle (SDLC) process, coding standards, change control, and version management including CI/CD.",
+                "Support team members and monitor user adoption of Salesforce tools in your organization. ",
+                "Resolve user support tickets. ",
+
+            ],
+            TECHNOLOGIES_USED: {
+                HEADING: 'Technologies used',
+                LIST: [
+                    "Apex",
+                    "Javascript",
+                    "HTML5",
+                    
+                ]
+            },
+        },
+        {
+            ROLE: "Salesforce Administrator",
             COMPANY_NAME: "Macrocosm Services and Solutions",
-            DURATION: "2020 - Present",
+            DURATION: "2020 - 2023",
             DESCRIPTION:
                 "Administered and monitored the Salesforce CRM application, created and updated database designs and data models, improved user adoption by 30% via a program of platform enhancements, designed, implemented, and deployed various custom objects, fields, tabs, components, validation rules, workflows, flows, approval processes, and auto-response rules for the Salesforce application, and had experience in Salesforce implementation and development. ",
             DESCRIPTION_POINTS: [
@@ -64,7 +92,7 @@ export const EXPERIENCE_DATA={
                 "Designed, implemented, and deployed various custom objects, fields, tabs, components, validation rules, workflows, flows, approval processes, and auto-response rules for the Salesforce application.",
                 "Experienced in using Data Loader, Dataloader.io, Data Import Wizard and Workbench for data manipulation and migration in Salesforce.",
                 "Maintained user profiles including adding new users, amending existing accounts, validating system permissions, restricting and opening up data access, and maintaining role hierarchies.",
-                "The person was responsible for the day-to-day configurations, support, maintenance and improvement of Salesforce.com. ",
+                "Responsible for the day-to-day configurations, support, maintenance and improvement of Salesforce.com. ",
                 "Worked with Lightning Framework, Lightning components, Lightning events and Salesforce Lightning Design system and had experience in Software Development Lifecycle (SDLC) process, coding standards, change control, and version management including CI/CD.",
                 "Experienced in Salesforce implementation and devolopment and writting Apex programing. ",
                 "Salesforce integration tools like Mulesoft ",
