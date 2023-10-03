@@ -55,7 +55,7 @@ export const EXPERIENCE_DATA={
         {
             ROLE: "Salesforce Administrator",
             COMPANY_NAME: "ChangeForce Foundation",
-            DURATION: "2023 - Present",
+            DURATION: "2022 - Present",
             DESCRIPTION:
                 "I was responsible for the day-to-day configuration, support, maintenance, and improvement of the organization’s database. Working closely with fundraising, program management, and marketing staff, the administrator will identify, develop, and deploy new business processes. ",
             DESCRIPTION_POINTS: [
@@ -83,7 +83,7 @@ export const EXPERIENCE_DATA={
         {
             ROLE: "Salesforce Administrator",
             COMPANY_NAME: "Macrocosm Services and Solutions",
-            DURATION: "2020 - 2023",
+            DURATION: "2020 - 2022",
             DESCRIPTION:
                 "Administered and monitored the Salesforce CRM application, created and updated database designs and data models, improved user adoption by 30% via a program of platform enhancements, designed, implemented, and deployed various custom objects, fields, tabs, components, validation rules, workflows, flows, approval processes, and auto-response rules for the Salesforce application, and had experience in Salesforce implementation and development. ",
             DESCRIPTION_POINTS: [
