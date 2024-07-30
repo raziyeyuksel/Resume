@@ -178,7 +178,10 @@ export const CERTIFICATION_DATA={
     HEADING: "CERTIFICATIONS",
     LIST: [
         {
-            NAME: "Salesforce Certified Administrator",
+            NAME: "Salesforce Certified Administrator(201)",
+        },
+        {
+            NAME: "Salesforce Certified Advanced Administrator(211)",
         },
         {
             NAME: "Salesforce Certified Platform DeveloperI",
