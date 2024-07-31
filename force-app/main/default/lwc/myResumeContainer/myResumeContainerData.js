@@ -40,7 +40,7 @@ export const USER_DETAILS={
 
 export const CAREER_SUMMARY={
     HEADING:"CAREER SUMMARY",
-    DESCRIPTION: "Well-versed 3X certified Salesforce Administrator with 3+ years experience in Salesforce Customization, Picklists, Custom Formula, Fields, Lookups, Master-Details, Flow Customization of Reports and Dashboards. Good understanding of APEX, Visualforce and LWC. Great interpersonal and communication skills, focused, self-motivated, organized, and quick learner. ",
+    DESCRIPTION: "Well-versed 4X certified Salesforce Administrator with 3+ years experience in Salesforce Customization, Picklists, Custom Formula, Fields, Lookups, Master-Details, Flow Customization of Reports and Dashboards. Good understanding of APEX, Visualforce and LWC. Great interpersonal and communication skills, focused, self-motivated, organized, and quick learner. ",
     KEYS_POINTS:[
         "Salesforce Administrator,App Bulder and Devoloper Certificates",
         "Designed, implemented, and deployed various custom objects, fields, tabs, components, validation rules, workflows, flows, approval processes, and auto-response rules for the Salesforce application. ",
